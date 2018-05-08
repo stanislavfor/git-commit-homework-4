@@ -10,3 +10,12 @@ body {
 	margin-left: 40px;
 	margin-right: 40px;
 }
+
+.text_1 {
+	font-size: 18px;
+	padding-top: 40px;
+	padding-bottom: 80px;
+	width: 880px;
+	text-align: justify;
+	margin: 0 auto;
+}
